@@ -6,7 +6,7 @@ The Labs team has allocation 20,000 USD to RFP and Microgrant funding for the ne
 
 This page is largely for those who want to build out bigger sections of the node's platform and might need funding to do so. If you’re looking for smaller tasks that might help you start to understand the code base - check out the issues open on the [Nodes](https://github.com/desci-labs/nodes) and [Nodes web GitHub](https://github.com/desci-labs/nodes-web/issues) pages!
 
-These resources will help you if you want to learn more (or join us on [Discord](https://discord.gg/A5P9fgB5Cf):
+These resources will help you if you want to learn more (or join us on [Discord](https://discord.gg/A5P9fgB5Cf)):
 
 [Beta announcement post](https://descilabs.substack.com/p/574f74ae-7c4c-4016-9c50-20093d654698)
 
@@ -32,7 +32,7 @@ RFPs are rarely funded in a single payment. Break your proposal into phases that
 7. Anything else:
 
 ## Active RFPs
-``` Fill in ```
+[RFP #1: Create an Attestation Community](https://github.com/desci-labs/rfps-and-microgrants/issues/1)
 
 # Microgrant
 
