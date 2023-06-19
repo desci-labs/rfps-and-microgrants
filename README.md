@@ -32,7 +32,14 @@ RFPs are rarely funded in a single payment. Break your proposal into phases that
 7. Anything else:
 
 ## Active RFPs
-[RFP #1: Create an Attestation Community](https://github.com/desci-labs/rfps-and-microgrants/issues/1)
+[RFP #1: Create an attestation community](https://github.com/desci-labs/rfps-and-microgrants/issues/1)
+[RFP #2: Create a FAIR data attestation community](https://github.com/desci-labs/rfps-and-microgrants/issues/2)
+[RFP #3: Implement Impact Certificates on Nodes](https://github.com/desci-labs/rfps-and-microgrants/issues/3)
+[RFP #4: Submit a proposal for a descifoundation.org redesign](https://github.com/desci-labs/rfps-and-microgrants/issues/4)
+[RFP #5: Submit a proposal for a javascript d3 visualization of Nodes](https://github.com/desci-labs/rfps-and-microgrants/issues/5)
+[RFP #6: Define potential impact measurements for Nodes](https://github.com/desci-labs/rfps-and-microgrants/issues/6)
+[RFP #7: Submit a proposal for creating a high-quality text editor in nodes](https://github.com/desci-labs/rfps-and-microgrants/issues/7)
+[RFP #8: Submit a proposal that defines and creates a component plugin](https://github.com/desci-labs/rfps-and-microgrants/issues/8)
 
 # Microgrant
 
