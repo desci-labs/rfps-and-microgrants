@@ -2,7 +2,7 @@
 
 Welcome to the Nodes Request for Proposal (RFP) hub! Nodes is a tool for creating high-quality research objects -  a type of verifiable scientific publication that combines manuscripts, code, data, and more into a coherent unit of knowledge - and publishing them on a decentralized repository. The point of this page is to represent the large improvements we want to add to nodes and to create a system for you to contribute to these next steps, critique them, or add to them. We hope that this can act as an entry point and collaboration space for anyone excited about research objects and the role they might play in the future of science. Whether you're a researcher, developer, or just curious, we invite you to join us on our journey to build a more collaborative and inclusive scientific publishing ecosystem.
 
-The Labs team has allocation 20,000 USD to RFP and Microgrant funding.
+The Labs team has allocated 20,000 USD to RFP and Microgrant funding.
 
 This page is largely for those who want to build out bigger sections of the node's platform and might need funding to do so. If you’re looking for smaller tasks that might help you start to understand the code base - check out the issues open on the [Nodes](https://github.com/desci-labs/nodes) and [Nodes web GitHub](https://github.com/desci-labs/nodes-web/issues) pages!
 
@@ -20,7 +20,7 @@ RFPs are tasks outlined and specifcally requested by the Labs team. You can find
 **1. Who is on the team?**
 _Name, Discord handle if you’re part of the community, etc._
 
-**2. What are your backgrounds?**
+**2. What is the background of all team members?**
 _Share as much information that will let us determine your experience and fit as possible. If you believe you are missing a skillset for completing the proposal put that information here._
 
 **3. Which RFP is this for?**
@@ -29,7 +29,7 @@ _Find the list of RFPs [here](https://github.com/desci-labs/rfps-and-microgrants
 **4. Describe your solution or proposal?**
 _This is the meat of your proposal. Be as detailed as possible. Make sure to specify if you are creating a research proposal or a technical solution._
 
-**5. Describe your timeline, milestones, and expected costs for each milestone.?**
+**5. Describe your timeline, milestones, and expected costs for each milestone.**
 _RFPs are rarely funded in a single payment. Break your proposal into phases that end with milestone completions. How will you reach those milestones? What is your proposal’s total cost and what is the cost for each phase?_
 
 **6. Do you expect to need support from the DeSci Labs development team? If so, what kind?**
@@ -54,7 +54,7 @@ Nodes Microgrants (NMG) are for proposed improvements to the Nodes application t
 **1. Who is on the team?**
 _Name, Discord handle if you’re part of the community, etc._
 
-**2. What are your backgrounds?**
+**2. What is the background of all team members?**
 _Share as much information that will let us determine your experience and fit as possible._
 
 **3. Describe your proposal.**
