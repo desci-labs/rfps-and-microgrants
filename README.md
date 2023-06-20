@@ -14,7 +14,7 @@ These resources will help you if you want to learn more (or join us on [Discord]
 
 # Requests for Proposals (RFPs)
 
-RFPs are tasks outlined and specifcally requested by the Labs team. You can find RFPs listed as issues on this repo (they are also linked below). To begin a discussion or submit a proposal for an RFP, please reply to the issue of the RFP you are submitting to using the template provided below.
+RFPs are tasks outlined and specifcally requested by the Labs team. You can find RFPs listed as issues on this repo (they are also linked below). To begin a discussion or ask a question about an RFP, simply comment on the issue. To submit a proposal for an RFP, please use the template provided below to reply to the appropriate issue.
 
 ## RFP Template
 **1. Who is on the team?**
