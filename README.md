@@ -26,7 +26,7 @@ _Share as much information that will let us determine your experience and fit as
 **3. Which RFP is this for?**
 _Find the list of RFPs [here](https://github.com/desci-labs/rfps-and-microgrants#active-rfps)._
 
-**4. Describe your solution or proposal?**
+**4. Describe your solution or proposal.**
 _This is the meat of your proposal. Be as detailed as possible. Make sure to specify if you are creating a research proposal or a technical solution._
 
 **5. Describe your timeline, milestones, and expected costs for each milestone.**
