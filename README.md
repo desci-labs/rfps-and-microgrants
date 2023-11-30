@@ -1,6 +1,6 @@
-# Request for Proposal (RFP) and Microgrants
+# Welcome to the Open Source Hub
 
-Welcome to the Nodes Request for Proposal (RFP) hub! Nodes is a tool for creating high-quality research objects -  a type of verifiable scientific publication that combines manuscripts, code, data, and more into a coherent unit of knowledge - and publishing them on a decentralized repository. The point of this page is to represent the large improvements we want to add to nodes and to create a system for you to contribute to these next steps, critique them, or add to them. We hope that this can act as an entry point and collaboration space for anyone excited about research objects and the role they might play in the future of science. Whether you're a researcher, developer, or just curious, we invite you to join us on our journey to build a more collaborative and inclusive scientific publishing ecosystem.
+Welcome to the Nodes Request for Open Source and Proposal (RFP) hub! Nodes is a tool for creating high-quality research objects -  a type of verifiable scientific publication that combines manuscripts, code, data, and more into a coherent unit of knowledge - and publishing them on a decentralized repository. The point of this page is to represent the large improvements we want to add to nodes and to create a system for you to contribute to these next steps, critique them, or add to them. We hope that this can act as an entry point and collaboration space for anyone excited about research objects and the role they might play in the future of science. Whether you're a researcher, developer, or just curious, we invite you to join us on our journey to build a more collaborative and inclusive scientific publishing ecosystem.
 
 The Labs team has allocated 20,000 USD to RFP and Microgrant funding.
 
@@ -11,6 +11,17 @@ These resources will help you if you want to learn more (or join us on [Discord]
 [Beta announcement post](https://descilabs.substack.com/p/574f74ae-7c4c-4016-9c50-20093d654698)<br>
 [User documentation](https://docs.desci.com/using-nodes/getting-started)<br>
 [Learning materials](https://docs.desci.com/learn/open-state-repository)
+
+# Active Projects
+
+We're excited to have a series of researchers, creators, and open-source developers building already. Feel free to contact the owners of these projects if you're interested in building with them! 
+
+| Project Name  | Keywords | Link to Materials |
+| ------------- | ------------- | ------------- | 
+| Automating Metadata | LLMs, FAIR, Metadata | https://github.com/DeSci-md/automating-metadata | 
+| Atomizing Code | dPID, citations | | 
+| Obsidian x DeSci | Kamu, Obsidian, Integrations  | https://obsidian-desci.github.io/Docs/ |
+| Social Media Scraping | FAIR, LLMs, Social Media, Annotations | https://github.com/csensemakers/desci-sense |
 
 # Requests for Proposals (RFPs)
 
